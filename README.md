@@ -18,16 +18,6 @@
 - [Twitter](https://x.com/ravigalhotra31)
 - [Portfolio](https://ravigalhotra.me)
 
-### 🔧 Projects
-- [Project 1 Name](link) - Brief description
-- [Project 2 Name](link) - Brief description
-- [Project 3 Name](link) - Brief description
-
-### 📚 Latest Blog Posts
-- [Blog Post 1 Title](link) - Brief description
-- [Blog Post 2 Title](link) - Brief description
-- [Blog Post 3 Title](link) - Brief description
-
 ### 🎯 Goals
 - Learn backend development to become a full-stack developer.
 - Contribute to open-source projects.
