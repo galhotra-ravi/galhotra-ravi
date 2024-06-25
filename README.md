@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on projects that involve innovative web development.
 - 🤔 I’m interested in learning more about UX/UI design and backend technologies.
 - 💬 Ask me about JavaScript, Angular, or anything related to web development!
-- 📫 How to reach me: ravi.galhotra@outlook.com(mailto:ravi.galhotra@outlook.com)
+- 📫 How to reach me: [ravi.galhotra@outlook.com](mailto:ravi.galhotra@outlook.com)
 - 😄 Pronouns: He/Him
 
 ### 🚀 Skills
