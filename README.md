@@ -38,3 +38,9 @@
 
 ### 📧 Contact Me
 - Email: ravi.galhotra@outlook.com
+
+<!-- GitHub Stats -->
+![Ravi's GitHub stats](https://github-readme-stats.vercel.app/api?username=galhotra-ravi&show_icons=true&theme=radical)
+
+<!-- Most Used Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galhotra-ravi&layout=compact&theme=radical)
