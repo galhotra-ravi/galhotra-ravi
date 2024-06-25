@@ -21,7 +21,6 @@
 ### 🎯 Goals
 - Learn backend development to become a full-stack developer.
 - Contribute to open-source projects.
-- Improve my skills in UI/UX design.
 
 ### 🌟 Fun Fact
 - I love experimenting with new JavaScript libraries in my free time!
