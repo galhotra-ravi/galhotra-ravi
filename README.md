@@ -32,7 +32,7 @@
 <div style="display: flex; justify-content: space-between;">
 
 <!-- GitHub Streak -->
-![Ravi's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=galhotra-ravi&theme=dark)
+![Ravi's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=galhotra-ravi&layout=compact&theme=dark)
 
 <!-- Most Used Languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galhotra-ravi&layout=compact&theme=dark)
