@@ -29,8 +29,12 @@
 ### 📧 Contact Me
 - Email: ravi.galhotra@outlook.com
 
-<!-- GitHub Stats -->
-![Ravi's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=galhotra-ravi&show_icons=true&theme=dark)
+<div style="display: flex; justify-content: space-between;">
+
+<!-- GitHub Streak -->
+![Ravi's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=galhotra-ravi&theme=dark)
 
 <!-- Most Used Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galhotra-ravi&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galhotra-ravi&layout=compact&theme=dark)
+
+</div>
