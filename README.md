@@ -33,5 +33,5 @@
 <!-- GitHub Streak -->
 <div>
     <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=galhotra-ravi&theme=dark" alt="GitHub Streak" />
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galhotra-ravi&layout=compact&theme=dark" alt="Top Languages" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galhotra-ravi&theme=dark" alt="Top Languages" />
 </div>
